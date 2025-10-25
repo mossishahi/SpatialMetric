@@ -1,0 +1,35 @@
+# add egg info file
+*.egg-info/
+*.egg
+*.eggs
+*.egg-info
+*.egg-info/*
+
+# add build file
+build/
+dist/
+*.egg-info/
+*.egg-info/*
+*.egg-info/**
+*.egg-info/**/*
+*.egg-info/**/**/*
+*.egg-info/**/**/**/*
+*.egg-info/**/**/**/**/*
+
+# add vscode file
+.vscode/
+.vscode/*
+
+# add pycache file
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pywz
+*.pyzz
+*.pywzz
+*.pyzzz
+*.pywzzz
+
